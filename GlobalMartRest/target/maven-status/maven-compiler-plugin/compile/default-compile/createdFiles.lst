@@ -1,0 +1,16 @@
+com\globalmart\product\controller\LoanController.class
+com\globalmart\product\dao\LoanDao.class
+com\globalmart\product\model\Status.class
+com\globalmart\product\dao\UserDaoImpl.class
+com\globalmart\product\model\Loan.class
+com\globalmart\product\services\UserServices.class
+com\globalmart\product\controller\UserController.class
+com\globalmart\product\model\User.class
+com\globalmart\product\services\LoanServices.class
+com\globalmart\product\configuration\HelloWorldConfiguration.class
+com\globalmart\product\configuration\CORSFilter.class
+com\globalmart\product\dao\UserDao.class
+com\globalmart\product\services\LoanServicesImpl.class
+com\globalmart\product\configuration\HelloWorldInitializer.class
+com\globalmart\product\dao\LoanDaoImpl.class
+com\globalmart\product\services\UserServicesImpl.class
